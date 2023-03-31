@@ -4,7 +4,7 @@
 
 Create an auto-suggest input field where the user would type at least 3 letters of a Hacker News story title and display the available stories in a dropdown list, similar to the following image:
 
-![Screenshot](./autocomplete.png)
+![Screenshot](./autocomplete.jpg)
 
 ## Task 2
 
